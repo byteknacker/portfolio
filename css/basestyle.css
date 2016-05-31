@@ -3,3 +3,13 @@
   margin-left: 50px;
   border: solid;
 }
+
+#github_logo {
+  margin-top: 10px;
+  margin-left: 15px;
+  padding: 0px;
+}
+
+#first-container {
+  padding-top: 30px;
+}
