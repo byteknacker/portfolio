@@ -45,3 +45,9 @@
 #jumbo {
   margin-top: 50px;
 }
+
+@media (max-width: 767px) {
+    body {
+      padding-left: 20px;
+    }
+}
