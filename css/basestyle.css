@@ -48,6 +48,6 @@
 
 @media (max-width: 767px) {
     .mobile-padding {
-      padding-left: 20px;
+      margin-left: 100px;
     }
 }
