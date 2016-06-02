@@ -47,7 +47,7 @@
 }
 
 @media (max-width: 767px) {
-    body {
+    .mobile-padding {
       padding-left: 20px;
     }
 }
