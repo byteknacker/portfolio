@@ -46,6 +46,10 @@
   margin-top: 50px;
 }
 
+#john_thumbnail {
+  margin-top: 12px;
+}
+
 @media (max-width: 767px) {
     .mobile-padding {
       margin-left: 20px;
