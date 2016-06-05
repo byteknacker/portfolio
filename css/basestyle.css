@@ -50,6 +50,31 @@
   margin-top: 12px;
 }
 
+@media (max-width: 1199px) {
+  #john_thumbnail {
+    width: 260px;
+  }
+}
+
+@media (max-width: 991px) {
+  .thumbnail.right-caption > img {
+      float: left;
+      margin-right: 9px;
+  }
+
+  .thumbnail.right-caption {
+      float: left;
+  }
+
+  .thumbnail.right-caption > .caption {
+      padding: 4px;
+  }
+  #john_thumbnail {
+    width: 180px;
+    margin: 20px;
+  }
+}
+
 @media (max-width: 767px) {
     .mobile-padding {
       margin-left: 20px;
