@@ -54,6 +54,17 @@
   margin-top: 12px;
 }
 
+#thumbnail-text {
+  padding: 0px;
+  margin-top: -10px;
+  margin-left: 12px;
+  margin-right: 12px;
+}
+
+#page-title {
+  margin-top: 0px;
+}
+
 @media (max-width: 1199px) {
   #john_thumbnail {
     width: 260px;
@@ -76,6 +87,12 @@
   #john_thumbnail {
     width: 180px;
     margin: 20px;
+  }
+  #thumbnail-text {
+    padding: 0px;
+    margin-top: 0px;
+    margin-left: 12px;
+    margin-right: 12px;
   }
 }
 
