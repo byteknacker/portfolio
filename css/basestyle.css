@@ -65,6 +65,12 @@
   margin-top: 0px;
 }
 
+#forhire-container1 {
+  margin-top: 60px;
+}
+
+.well.custom-well-small { width: 500px; margin: 0 auto; }
+
 @media (max-width: 1199px) {
   #john_thumbnail {
     width: 260px;
@@ -101,4 +107,5 @@
       margin-left: 20px;
       margin-right: 20px;
     }
+    .well.custom-well-small { width: 350px; margin: 0 auto; }
 }
