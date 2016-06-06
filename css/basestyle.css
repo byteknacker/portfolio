@@ -47,12 +47,20 @@
 }
 
 #jumbo {
-  margin-top: 50px;
+  margin-top: 20px;
 }
 
 #john_thumbnail {
   margin-top: 12px;
   width: 300px;
+}
+
+#project-euler-symbol {
+  margin-left: 40px;
+}
+
+#skills-heading {
+  margin-top: 0px;
 }
 
 #thumbnail-text {
@@ -109,4 +117,7 @@
       margin-right: 20px;
     }
     .well.custom-well-small { width: 350px; margin: 0 auto; }
+    #skills-heading {
+      margin-top: 20px;
+    }
 }
