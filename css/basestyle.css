@@ -124,4 +124,8 @@
     #skills-heading {
       margin-top: 20px;
     }
+    #cv-iframe {
+      width: 350px;
+      height: 520px;
+    }
 }
