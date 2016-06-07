@@ -46,7 +46,7 @@
   padding-right: 100px;
 }
 
-#jumbo {
+.jumbo-margin {
   margin-top: 20px;
 }
 
@@ -83,6 +83,10 @@
 @media (max-width: 1199px) {
   #john_thumbnail {
     width: 260px;
+  }
+  #cv-iframe {
+    width: 450px;
+    height: 520px;
   }
 }
 
